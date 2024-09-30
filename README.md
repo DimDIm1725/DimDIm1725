@@ -31,6 +31,22 @@
 ![Bitbucket](https://img.shields.io/badge/-Bitbucket-0052CC?style=flat-square&logo=bitbucket)
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-A22846?style=flat-square&logo=raspberry-pi)
 
+## 🛠️ POS & Restaurant Technology Stacks
+
+![POS](https://img.shields.io/badge/-POS-FF4500?style=flat-square&logo=cashapp)
+![Restaurant](https://img.shields.io/badge/-Restaurant-FFD700?style=flat-square&logo=foodpanda)
+![Grocery](https://img.shields.io/badge/-Grocery-32CD32?style=flat-square&logo=shopping-cart)
+![Kiosk](https://img.shields.io/badge/-Kiosk-4682B4?style=flat-square&logo=monitor)
+![Delivery](https://img.shields.io/badge/-Delivery-00CC66?style=flat-square&logo=uber-eats)
+![Cashier](https://img.shields.io/badge/-Cashier-FF6347?style=flat-square&logo=verifone)
+![Printer](https://img.shields.io/badge/-Printer-696969?style=flat-square&logo=printer)
+![QR Code Scan](https://img.shields.io/badge/-QR%20Code%20Scan-4B0082?style=flat-square&logo=qr-code)
+![Barcode](https://img.shields.io/badge/-Barcode-1E90FF?style=flat-square&logo=barcode)
+![Watch](https://img.shields.io/badge/-Watch-8A2BE2?style=flat-square&logo=apple-watch)
+![Elo](https://img.shields.io/badge/-Elo-FF4500?style=flat-square&logo=elo)
+![Tablet](https://img.shields.io/badge/-Tablet-ADFF2F?style=flat-square&logo=tablet)
+![Cell Phone](https://img.shields.io/badge/-Cell%20Phone-FFD700?style=flat-square&logo=mobile-phone)
+
 ## 🛠️ Frontend
 
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular)
