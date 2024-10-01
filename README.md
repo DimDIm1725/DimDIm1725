@@ -182,5 +182,17 @@
     <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer">
         <img src="https://nuxtjs.org/logos/nuxt.svg" alt="Nuxt" width="40" height="40"/>
     </a>
+    <a href="https://ethereum.org/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ethereum/ethereum-original.svg" alt="Ethereum" width="40" height="40"/>
+    </a>
+    <a href="https://solana.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solana/solana-original.svg" alt="Solana" width="40" height="40"/>
+    </a>
+    <a href="https://ton.org/" target="_blank" rel="noreferrer">
+        <img src="https://ton.org/static/img/logo.svg" alt="TonChain" width="40" height="40"/>
+    </a>
+    <a href="https://zombitoken.com/" target="_blank" rel="noreferrer">
+        <img src="https://cryptologos.cc/logos/zombi-token-zmb-logo.png" alt="Zombi" width="40" height="40"/>
+    </a>
 </p>
 
