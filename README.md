@@ -1,4 +1,4 @@
-<h3 align="left">Languages and Tools:</h3>
+## Technology Stacks
 ![POS](https://img.shields.io/badge/-POS-FF4500?style=flat-square&logo=cashapp)
 ![Square](https://img.shields.io/badge/-Square-3E4348?style=flat-square&logo=square)
 ![Stripe](https://img.shields.io/badge/-Stripe-6772E5?style=flat-square&logo=stripe)
@@ -45,7 +45,6 @@
 ![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook)
 ![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter)
 ![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=youtube)
-
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
