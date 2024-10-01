@@ -161,9 +161,6 @@
     <a href="https://wordpress.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" alt="WordPress" width="40" height="40"/>
     </a>
-    <a href="https://www.ibm.com/blockchain" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blockchain/blockchain-original.svg" alt="Blockchain" width="40" height="40"/>
-    </a>
     <a href="https://soliditylang.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg" alt="Smart Contract" width="40" height="40"/>
     </a>
