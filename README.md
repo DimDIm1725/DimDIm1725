@@ -1,5 +1,5 @@
 ## 🛠️ Technology 
-POS system
+
 ![POS](https://img.shields.io/badge/-POS-FF4500?style=flat-square&logo=cashapp)
 ![Square](https://img.shields.io/badge/-Square-3E4348?style=flat-square&logo=square)
 ![Stripe](https://img.shields.io/badge/-Stripe-6772E5?style=flat-square&logo=stripe)
@@ -23,7 +23,7 @@ POS system
 ![FoodPanda](https://img.shields.io/badge/-FoodPanda-FF3C00?style=flat-square&o=barcode)
 ![Odoo](https://img.shields.io/badge/-Odoo-7E3C3D?style=flat-square&logo=odoo)
 ![Zoho](https://img.shields.io/badge/-Zoho-4C4C4C?style=flat-square&logo=zoho)
-Blockchain
+
 ![Blockchain](https://img.shields.io/badge/-Blockchain-000000?style=flat-square&logo=bitcoin)
 ![Ethereum](https://img.shields.io/badge/-Ethereum-3C3C3D?style=flat-square&logo=ethereum)
 ![Bitcoin](https://img.shields.io/badge/-Bitcoin-F7931A?style=flat-square&logo=bitcoin)
@@ -34,7 +34,7 @@ Blockchain
 ![Betting](https://img.shields.io/badge/-Betting-FF6347?style=flat-square&logo=betfair)
 ![Solana](https://img.shields.io/badge/-Solana-5C2D91?style=flat-square&logo=solana)
 ![Ton](https://img.shields.io/badge/-Ton-000000?style=flat-square&logo=ton)__
-AI
+
 ![Voice AI](https://img.shields.io/badge/-Voice%20AI-8A2BE2?style=flat-square&logo=ai)
 ![OpenAI](https://img.shields.io/badge/-OpenAI-00B3F0?style=flat-square&logo=openai)
 ![Artificial Intelligence](https://img.shields.io/badge/-AI-00BFFF?style=flat-square&logo=artificial-intelligence)
