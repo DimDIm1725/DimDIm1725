@@ -161,6 +161,26 @@
     <a href="https://wordpress.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" alt="WordPress" width="40" height="40"/>
     </a>
-
+    <a href="https://www.ibm.com/blockchain" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blockchain/blockchain-original.svg" alt="Blockchain" width="40" height="40"/>
+    </a>
+    <a href="https://soliditylang.org/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg" alt="Smart Contract" width="40" height="40"/>
+    </a>
+    <a href="https://www.coindesk.com/" target="_blank" rel="noreferrer">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Bitcoin.svg/1200px-Bitcoin.svg.png" alt="Cryptocurrency" width="40" height="40"/>
+    </a>
+    <a href="https://defi.tech/" target="_blank" rel="noreferrer">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/DeFi.svg/512px-DeFi.svg.png" alt="DeFi" width="40" height="40"/>
+    </a>
+    <a href="https://coinmarketcap.com/" target="_blank" rel="noreferrer">
+        <img src="https://upload.wikimedia.org/wikipedia/en/e/ef/CoinMarketCap_logo.png" alt="CoinMarketCap" width="40" height="40"/>
+    </a>
+    <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="Rust" width="40" height="40"/>
+    </a>
+    <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer">
+        <img src="https://nuxtjs.org/logos/nuxt.svg" alt="Nuxt" width="40" height="40"/>
+    </a>
 </p>
 
