@@ -170,29 +170,18 @@
     <a href="https://www.coindesk.com/" target="_blank" rel="noreferrer">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Bitcoin.svg/1200px-Bitcoin.svg.png" alt="Cryptocurrency" width="40" height="40"/>
     </a>
-    <a href="https://defi.tech/" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/DeFi.svg/512px-DeFi.svg.png" alt="DeFi" width="40" height="40"/>
-    </a>
-    <a href="https://coinmarketcap.com/" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/en/e/ef/CoinMarketCap_logo.png" alt="CoinMarketCap" width="40" height="40"/>
-    </a>
-    <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="Rust" width="40" height="40"/>
-    </a>
-    <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer">
-        <img src="https://nuxtjs.org/logos/nuxt.svg" alt="Nuxt" width="40" height="40"/>
-    </a>
     <a href="https://ethereum.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ethereum/ethereum-original.svg" alt="Ethereum" width="40" height="40"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Ethereum_logo_2014.svg/1200px-Ethereum_logo_2014.svg.png" alt="Ethereum" width="40" height="40"/>
     </a>
     <a href="https://solana.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solana/solana-original.svg" alt="Solana" width="40" height="40"/>
+        <img src="https://upload.wikimedia.org/wikipedia/en/6/6c/Solana_logo.png" alt="Solana" width="40" height="40"/>
     </a>
     <a href="https://ton.org/" target="_blank" rel="noreferrer">
-        <img src="https://ton.org/static/img/logo.svg" alt="TonChain" width="40" height="40"/>
+        <img src="https://ton.org/assets/img/ton.svg" alt="TonChain" width="40" height="40"/>
     </a>
     <a href="https://zombitoken.com/" target="_blank" rel="noreferrer">
         <img src="https://cryptologos.cc/logos/zombi-token-zmb-logo.png" alt="Zombi" width="40" height="40"/>
     </a>
+
 </p>
 
