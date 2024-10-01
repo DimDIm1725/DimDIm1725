@@ -50,7 +50,7 @@
 ![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter)
 ![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=youtube)
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools</h3>
 
 <p align="left">
     <!-- Existing items -->
